@@ -13,10 +13,12 @@ The default port for the webserver is hosted on `localhost:8080`.
 With the following input image,
 ![Example](https://github.com/Savag3life/EmojiProcessor/blob/main/example/flow_eyes.png)
 We generate the following emoji's with a descriptor or `eyes` and a size of `64x64` pixels per-emote.
+
 ```aiignore
 :eyes_0_0::eyes_0_1::eyes_0_2::eyes_0_3::eyes_0_4::eyes_0_5::eyes_0_6::eyes_0_7::eyes_0_8::eyes_0_9:
 :eyes_1_0::eyes_1_1::eyes_1_2::eyes_1_3::eyes_1_4::eyes_1_5::eyes_1_6::eyes_1_7::eyes_1_8::eyes_1_9:
 ```
+
 Which creates 20 individual emoji's, each with a size of `64x64` pixels. You can use any of them in any order, or all of them.
 
 ```:eyes_1_1::eyes_1_2::eyes_1_3::eyes_1_7::eyes_1_8::eyes_1_9:```
