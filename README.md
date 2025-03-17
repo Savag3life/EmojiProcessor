@@ -12,6 +12,7 @@ The default port for the webserver is hosted on `localhost:8080`.
 ## Example
 With the following input image,
 ![Example](https://github.com/Savag3life/EmojiProcessor/blob/main/example/flow_eyes.png)
+
 We generate the following emoji's with a descriptor or `eyes` and a size of `64x64` pixels per-emote.
 
 ```aiignore
